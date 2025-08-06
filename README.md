@@ -1,13 +1,13 @@
-# cryptographic-solution
+## cryptographic-solution **[Encryption ](https://github.com/sherazi1214/-Encryption):**
 
-## What is Cryptography? (کرپٹوگرافی کیا ہے؟)
+## What is Cryptography?
 ### Definition (English):
 Cryptography is the science of protecting information by transforming it into an unreadable format, so that only authorized users can access it.
 
 ### Urdu Explanation:
 Cryptography ka matlab hai data ko encode (encrypt) karna taake wo hacker ya unauthorized person nahi padh sake. Sirf jis ke paas right key ho, wo data ko decrypt kar ke samajh sakta hai.
 
-## Cryptographic Solution (کرپٹوگرافک سلوشن کیا ہے؟)
+## Cryptographic Solution
 ### Definition:
 A cryptographic solution is a method or technology that uses cryptography to protect data – such as encryption tools, digital signatures, VPNs, etc.
 
@@ -27,7 +27,7 @@ Email encryption (PGP) ----------------------------	Secure email messages
 ### Urdu:
 Cryptographic solution wo technology ya software hoti hai jo data ko secure banati hai. Jaise aapki banking app ya WhatsApp encryption, sab cryptography use karti hain.
 
-## Cipher (سائفر کیا ہے؟)
+## Cipher
 ### Definition:
 A cipher is a mathematical algorithm used to perform encryption or decryption.
 
@@ -47,7 +47,7 @@ Block Cipher----------------------------------------	Encrypts data in fixed-size
 Stream Cipher--------------------------------------	Encrypts data bit by bit or byte by byte
 
 
-## What are Keys in Cryptography? (کرپٹو کیز کیا ہوتی ہیں؟)
+## What are Keys in Cryptography? 
 ### Definition:
 A key is a string of bits used by a cryptographic algorithm to encrypt and decrypt data.
 
@@ -81,7 +81,7 @@ Store keys separately from data
 Use multi-factor authentication
 
 
-## Cryptographic Strength (کرپٹوگرافی کی طاقت / مضبوطی)
+## Cryptographic Strength 
 #### Definition:
 Cryptographic strength means how hard it is for an attacker to break the encryption or guess the key.
 
