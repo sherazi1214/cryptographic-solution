@@ -1,4 +1,4 @@
-## cryptographic-solution **[Encryption ](https://github.com/sherazi1214/-Encryption):**
+## 1. cryptographic-solution , 2. **[Encryption ](https://github.com/sherazi1214/-Encryption):**
 
 ## What is Cryptography?
 ### Definition (English):
